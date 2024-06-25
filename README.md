@@ -1,7 +1,7 @@
 CSE360 Group 11 Team Project
-Group Names:
-Cole Patola
-Bradley Breisch
-Ivan Hornung
-Riccardo De Maria
+<br/>Group Names:
+<br/>Cole Patola
+<br/>Bradley Breisch
+<br/>Ivan Hornung
+<br/>Riccardo De Maria
 
